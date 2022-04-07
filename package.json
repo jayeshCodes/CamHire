@@ -1,7 +1,7 @@
 {
   "name": "landingpage-react-template",
   "private": true,
-  "homepage": "https://Kuldeep-Chotrani.github.io/CamHire",
+  "homepage": "https://kuldeep-chotrani.github.io/CamHire/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
