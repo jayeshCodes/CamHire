@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.6dea0f05.chunk.css",
-    "main.js": "./static/js/main.a0b83190.chunk.js",
-    "main.js.map": "./static/js/main.a0b83190.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.fc3cd5fd.js",
-    "runtime-main.js.map": "./static/js/runtime-main.fc3cd5fd.js.map",
-    "static/js/2.288e8a4b.chunk.js": "./static/js/2.288e8a4b.chunk.js",
-    "static/js/2.288e8a4b.chunk.js.map": "./static/js/2.288e8a4b.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "./static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.288e8a4b.chunk.js.LICENSE.txt": "./static/js/2.288e8a4b.chunk.js.LICENSE.txt"
+    "main.css": "/CamHire/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/CamHire/static/js/main.3e097e1a.chunk.js",
+    "main.js.map": "/CamHire/static/js/main.3e097e1a.chunk.js.map",
+    "runtime-main.js": "/CamHire/static/js/runtime-main.47694117.js",
+    "runtime-main.js.map": "/CamHire/static/js/runtime-main.47694117.js.map",
+    "static/js/2.8882a6d0.chunk.js": "/CamHire/static/js/2.8882a6d0.chunk.js",
+    "static/js/2.8882a6d0.chunk.js.map": "/CamHire/static/js/2.8882a6d0.chunk.js.map",
+    "index.html": "/CamHire/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/CamHire/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8882a6d0.chunk.js.LICENSE.txt": "/CamHire/static/js/2.8882a6d0.chunk.js.LICENSE.txt",
+    "static/media/camhire_logo-04.3978ba6c.png": "/CamHire/static/media/camhire_logo-04.3978ba6c.png",
+    "static/media/landing_page.c3d08906.jpg": "/CamHire/static/media/landing_page.c3d08906.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc3cd5fd.js",
-    "static/js/2.288e8a4b.chunk.js",
+    "static/js/runtime-main.47694117.js",
+    "static/js/2.8882a6d0.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.a0b83190.chunk.js"
+    "static/js/main.3e097e1a.chunk.js"
   ]
 }
